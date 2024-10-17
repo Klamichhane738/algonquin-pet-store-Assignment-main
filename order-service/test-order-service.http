@@ -5,5 +5,5 @@ POST http://localhost:3000/orders
 Content-Type: application/json
 
 {
-  "product": "Cat Food5"
+  "product": "Cat Food10"
 }
